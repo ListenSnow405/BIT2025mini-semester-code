@@ -1,0 +1,22 @@
+# Compiled executables
+*.exe
+
+# Common C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.a
+*.lib
+
+# Local build directories
+build/
+cmake-build-*/
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
